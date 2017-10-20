@@ -1,0 +1,1 @@
+default: RESET_BETWEEN_SCENARIOS=1 PLATFORM=android APP_PATH=android-source/2.2.7/bin/Dashboard-debug.apk

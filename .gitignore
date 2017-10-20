@@ -9,3 +9,7 @@
 .externalNativeBuild
 
 /.idea/
+.byebug_history
+.irb-history
+app-debug.apk
+test_servers/
